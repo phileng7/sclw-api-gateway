@@ -5,7 +5,7 @@ env:
     APPLICATION_NAME: sclw-api-gateway
     ECR_REPOSITORY: 104665986367.dkr.ecr.sa-east-1.amazonaws.com
     IMAGE_TAG: 0.0.1-SNAPSHOT
-    CONTAINER_NAME: SSCLW-API-Gateway-Container
+    CONTAINER_NAME: SCLW-API-Gateway-Container
 phases: 
   pre_build: 
     commands: 
